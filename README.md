@@ -11,3 +11,4 @@
 ## Dataset
 [Amazon Product Sales 2023](https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset)
 
+It is a Simple Example how I Extracted Products from single feature by using nltk and clustered them in data set for future Implementation 
